@@ -63,11 +63,8 @@ Hoje estudo **Python, JS/TS, React, Node e IA aplicada**. No tempo livre treino 
 
 ### 🚀 Projetos em Destaque
 > Clique para abrir
-
-- **[<PROJETO_1>](https://github.com/<SEU_GITHUB>/<REPO_1>)** – breve descrição do que resolve.
-- **[<PROJETO_2>](https://github.com/<SEU_GITHUB>/<REPO_2>)** – breve descrição do que resolve.
-- **[<PROJETO_3>](https://github.com/<SEU_GITHUB>/<REPO_3>)** – breve descrição do que resolve.
-
+- **[<PROJETO_1>](https://github.com/Emersonresb/auri-ai)** – Chat com API Open IA integrada
+- **[<PROJETO_2>](https://github.com/Emersonresb/auri-ai-studio)** – Gerador de imagens usando IA.
 ---
 
 ### 🧪 O que estou estudando agora
